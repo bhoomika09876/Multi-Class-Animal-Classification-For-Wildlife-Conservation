@@ -1,2 +1,2 @@
-### Multi-Class-Animal-Classification-For-Wildlife-Conservation
+### Multi-Class-Animal-Recognition-For-Wildlife-Conservation
 "Multi-class animal classification for wildlife conservation using AI" refers to the application of artificial intelligence (AI) algorithms to automatically identify and categorize multiple species of animals from images or videos captured in the wild, primarily used to monitor wildlife populations, detect threats like poaching, and study biodiversity, significantly enhancing the efficiency and accuracy of wildlife conservation efforts compared to traditional manual methods.
